@@ -1,5 +1,5 @@
 <?php
-    require_once '../models/db_conn.php';
+    require_once '../models/db_connect.php';
 ?>
 <?php
     function getDepts(){
